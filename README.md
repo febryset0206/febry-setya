@@ -28,5 +28,5 @@ Membangun aplikasi web **full-stack** pertama yang terdeploy di internet!
 ---
 ## 📊 GitHub Stats
 ![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=febry-setya&show_icons=tru
+Stats](https://github-readme-stats.vercel.app/api?username=febryset0206&show_icons=tru
 e&theme=radical)
